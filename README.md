@@ -1,6 +1,6 @@
 - Hi, I’m @domo-fernaz
 - I’m interested in github pages. It seems cool!
-- I’m currently learning OpenGL. I've been reading the documentation on learnopengl.com 
+- I’m currently learning OpenGL. I've been reading the documentation at learnopengl.com 
 
 <!---
 domo-fernaz/domo-fernaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
